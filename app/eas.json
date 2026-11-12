@@ -1,0 +1,2 @@
+{ "build": { "production": {}, "preview": { "distribution": "internal", "android": { "buildType": "apk" } } },
+  "submit": { "production": {} } }

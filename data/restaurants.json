@@ -1,0 +1,5796 @@
+{
+ "city": "Cape Coral, FL",
+ "updated": "2026-11-11",
+ "restaurants": [
+  {
+   "id": "1-wok-2481",
+   "name": "1 Wok",
+   "address": "2481 Del Prado Blvd N #104, Cape Coral, FL 33909",
+   "phone": "(239) 573-8589",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "10-twenty-five-1025",
+   "name": "10 Twenty Five",
+   "address": "1025 Santa Barbara Blvd 1 & 2, Cape Coral, FL 33991",
+   "phone": "(239) 829-0407",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Fri 4–7 PM",
+    "deals": "",
+    "source": "Yelp review snippet",
+    "confidence": "low"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "3-pepper-burrito-co-2522",
+   "name": "3 Pepper Burrito Co",
+   "address": "2522 Santa Barbara Blvd #308, Cape Coral, FL 33914",
+   "phone": "(239) 574-2050",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "a-mi-manera-954",
+   "name": "A Mi Manera",
+   "address": "954 NE Pine Island Rd #d, Cape Coral, FL 33909",
+   "phone": "(239) 800-4100",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "a-gelato-520",
+   "name": "A+gelato",
+   "address": "520 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "(941) 993-6041",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "aji-limon-ceviche-y-carbon-1336",
+   "name": "Aji Limon Ceviche y Carbon",
+   "address": "1336 SE 46 Ln, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "aji-limon-raices-peruanas-1480",
+   "name": "Aji Limon Raices Peruanas",
+   "address": "1480 NE Pine Island Rd 2A, Cape Coral, FL 33909",
+   "phone": "(239) 634-2462",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "amore-italian-market-bakery-4703",
+   "name": "Amore Italian Market & Bakery",
+   "address": "4703 SW 16th Pl, Cape Coral, FL 33914",
+   "phone": "(239) 800-3938",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "amy-s-winehouse",
+   "name": "Amy's Winehouse",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "annie-s-restaurant-814",
+   "name": "Annie's Restaurant",
+   "address": "814 SE 47 St, Cape Coral, FL 33904",
+   "phone": "(239) 945-3133",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "anthony-s-on-the-blvd-1303",
+   "name": "Anthony's on the Blvd",
+   "address": "1303 Del Prado Blvd S, Cape Coral, FL 33990",
+   "phone": "(239) 671-2229",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "applebee-s-neighborhood-grill-and-bar-2228",
+   "name": "Applebee's Neighborhood Grill and Bar",
+   "address": "2228 Del Prado Blvd S, Cape Coral, FL 33990",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "aqua-seafood-cape-coral-870",
+   "name": "Aqua Seafood Cape Coral",
+   "address": "870 SE 47 Ter, Cape Coral, FL 33904",
+   "phone": "(239) 257-1297",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily 3–6 PM",
+    "deals": "",
+    "source": "discoverhappyhours.com",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "arby-s-47",
+   "name": "Arby's",
+   "address": "47 Hancock Bridge Pkwy W, Cape Coral, FL 33991",
+   "phone": "(239) 458-4142",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "ariani-restaurant-lounge-1529",
+   "name": "Ariani Restaurant & Lounge",
+   "address": "1529 SE 15 Terrace, Cape Coral, FL 33990",
+   "phone": "(941) 772-8000",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "aroma-joes-4320",
+   "name": "Aroma Joes",
+   "address": "4320 Del Prado Blvd, Cape Coral, FL 33904",
+   "phone": "(239) 257-1285",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "asia-buffet-1706",
+   "name": "Asia Buffet",
+   "address": "1706 Del Prado Blvd S, Cape Coral, FL 33990",
+   "phone": "(239) 573-6555",
+   "category": "Asian",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "azucar-restaurant-and-bakery-3326",
+   "name": "Azucar Restaurant and Bakery",
+   "address": "3326 Del Prado Blvd S, Cape Coral, FL 33904",
+   "phone": "(239) 549-2833",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "b-s-grillhouse-728",
+   "name": "B's Grillhouse",
+   "address": "728 SW Pine Island Rd, Cape Coral, FL 33991",
+   "phone": "(239) 989-4489",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "bacios-pizzerial-303",
+   "name": "Bacios Pizzerial",
+   "address": "303 NE 3 Ave Unit 1, Cape Coral, FL 33909",
+   "phone": "",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "backstreets-sports-bar-915",
+   "name": "Backstreets Sports Bar",
+   "address": "915 SE 47 Terr, Cape Coral, FL 33904",
+   "phone": "(941) 945-7555",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Fri 4–6 PM; Tue late 10 PM–12 AM",
+    "deals": "Half-price drinks, shots, bottled beer and drafts",
+    "source": "swflhappyhour.com (checked Nov 2026)",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "bahia-bowls-2522",
+   "name": "Bahia Bowls",
+   "address": "2522 Santa Barbara Blvd Ste 302, Cape Coral, FL 33914",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "barunch-1327",
+   "name": "Barunch",
+   "address": "1327 Cape Coral Pkwy E Ste B, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "bayside-burger-beer-211",
+   "name": "Bayside Burger & Beer",
+   "address": "211 Hancock Bridge Pkwy #9-11, Cape Coral, FL 33990",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "beef-o-brady-s-2481",
+   "name": "Beef 'o' Brady's",
+   "address": "2481 Del Prado Blvd N Ste 101, Cape Coral, FL 33909",
+   "phone": "(239) 573-6172",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "big-nick-s-barbecue-4720",
+   "name": "Big Nick's Barbecue",
+   "address": "4720 SE 9 Pl Ste 200, Cape Coral, FL 33904",
+   "phone": "(239) 204-2498",
+   "category": "Steak & BBQ",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "big8-bbq-1217",
+   "name": "BIG8 BBQ",
+   "address": "1217 SE 47 Ter, Cape Coral, FL 33904",
+   "phone": "(239) 205-6689",
+   "category": "Steak & BBQ",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "bimini-basin-seafood-cocktails-458",
+   "name": "Bimini Basin Seafood & Cocktails",
+   "address": "458 Tudor Dr, Cape Coral, FL 33904",
+   "phone": "(239) 347-7033",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily 2–6:30 PM (food until 5)",
+    "deals": "$2 oysters, $8–9 small plates, $6–9 cocktails, $4 drafts, $6 wine",
+    "source": "swflhappyhour.com (checked Nov 2026)",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "bob-evans-restaurant-1420",
+   "name": "Bob Evans Restaurant",
+   "address": "1420 SW Pine Island Rd, Cape Coral, FL 33991",
+   "phone": "(239) 242-4315",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "bonefish-grill-900",
+   "name": "Bonefish Grill",
+   "address": "900 SW Pine Island Rd Unit 124, Cape Coral, FL 33991",
+   "phone": "(239) 574-1018",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily 3–6:30 PM",
+    "deals": "$1 off drafts, $5–6 house wine, $7 cocktails, $7 appetizers",
+    "source": "discoverhappyhours.com",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "botanical-brewing-taproom-839",
+   "name": "Botanical Brewing Taproom",
+   "address": "839 Miramar St, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Fri 2–5 PM",
+    "deals": "",
+    "source": "whereat.io listing",
+    "confidence": "low"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "bowlero-coral-42",
+   "name": "Bowlero Coral",
+   "address": "42 Mid Cape Terrace, Cape Coral, FL 33991",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "bowlero-midpoint-1899",
+   "name": "Bowlero Midpoint",
+   "address": "1899 Del Prado Blvd S, Cape Coral, FL 33990",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "brunch-factory-2401",
+   "name": "Brunch Factory",
+   "address": "2401 Hancock Bridge Pkwy, Cape Coral, FL 33990",
+   "phone": "(239) 257-1685",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "bubba-s-roadhouse-saloon-2121",
+   "name": "Bubba's Roadhouse & Saloon",
+   "address": "2121 NW Pine Island Rd, Cape Coral, FL 33991",
+   "phone": "(941) 282-5520",
+   "category": "Steak & BBQ",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily open–7 PM; Sun–Thu 9 PM–close",
+    "deals": "2-for-1 well drinks, $1 off beer",
+    "source": "swflhappyhour.com (checked Nov 2026)",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "bubbakoo-s-burritos-1751",
+   "name": "Bubbakoo's Burritos",
+   "address": "1751 NE Pine Island Rd Unit D, Cape Coral, FL 33909",
+   "phone": "",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "buddha-bachi-express-2209",
+   "name": "Buddha-Bachi Express",
+   "address": "2209 Santa Barbara Blvd Unit 107, Cape Coral, FL 33991",
+   "phone": "(239) 360-8171",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "buffalo-wild-wings-307",
+   "name": "Buffalo Wild Wings",
+   "address": "307 SW Pine Island Rd, Cape Coral, FL 33991",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Fri 3–6 PM",
+    "deals": "",
+    "source": "whereat.io listing",
+    "confidence": "low"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "buon-appetito-italian-restaurant-bar-2384",
+   "name": "Buon Appetito Italian Restaurant & Bar",
+   "address": "2384 Surfside Blvd A-113, Cape Coral, FL 33991",
+   "phone": "(239) 558-5711",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "listed",
+    "times": "Tue–Sun 3–6 PM",
+    "deals": "",
+    "source": "whereat.io listing",
+    "confidence": "low"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "burger-king-1013",
+   "name": "Burger King",
+   "address": "1013 SE Del Prado, Cape Coral, FL 33990",
+   "phone": "(941) 574-7666",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "burger-king-1704",
+   "name": "Burger King",
+   "address": "1704 Cape Coral Pkwy W, Cape Coral, FL 33914",
+   "phone": "(941) 900-5757",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "burger-king-2621",
+   "name": "Burger King",
+   "address": "2621 Santa Barbara Blvd, Cape Coral, FL 33914",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "burger-king-22",
+   "name": "Burger King",
+   "address": "22 NE Pine Island Rd, Cape Coral, FL 33991",
+   "phone": "(239) 458-5011",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "burnt-store-tavern-3015",
+   "name": "Burnt Store Tavern",
+   "address": "3015 Pine Island SW Ste 101, Cape Coral, FL 33991",
+   "phone": "(239) 579-0510",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "burrito-shak-1200",
+   "name": "Burrito Shak",
+   "address": "1200 Solaris Dr #305, Cape Coral, FL 33909",
+   "phone": "(239) 205-6242",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cafe-you-1423",
+   "name": "Cafe You",
+   "address": "1423 SE 10 St #1a & #2, Cape Coral, FL 33990",
+   "phone": "(239) 600-0966",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "caloosa-club",
+   "name": "Caloosa Club",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cape-brazilian-grill-159",
+   "name": "Cape Brazilian Grill",
+   "address": "159 Hancock Bridge Pkwy Unit 2, Cape Coral, FL 33990",
+   "phone": "(239) 766-3663",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cape-cabaret-4725",
+   "name": "Cape Cabaret",
+   "address": "4725 Vincennes Blvd, Cape Coral, FL 33904",
+   "phone": "(239) 549-3000",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "listed",
+    "times": "Tue–Sat 5–6 PM",
+    "deals": "Half-price house wine, well cocktails, domestic drafts",
+    "source": "swflhappyhour.com (checked Nov 2026)",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cape-creamery-1715",
+   "name": "Cape Creamery",
+   "address": "1715 Cape Coral Pkwy W, Cape Coral, FL 33914",
+   "phone": "(239) 471-7899",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cape-harbour-oyster-bar-grill-5785",
+   "name": "Cape Harbour Oyster Bar & Grill",
+   "address": "5785 Cape Harbour Dr Ste #101-102, Cape Coral, FL 33914",
+   "phone": "(239) 541-0800",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cape-ice-cream-1031",
+   "name": "Cape Ice Cream",
+   "address": "1031 Santa Barbara Blvd Ste 14, Cape Coral, FL 33991",
+   "phone": "(239) 478-6678",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cape-royal-golf-club-11460",
+   "name": "Cape Royal Golf Club",
+   "address": "11460 Royal Tee Circle, Cape Coral, FL 33991",
+   "phone": "(239) 283-5522",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "capriotti-s-sandwich-shop-327",
+   "name": "Capriotti's Sandwich Shop",
+   "address": "327 SW 10 Pl #202, Cape Coral, FL 33991",
+   "phone": "(239) 471-0469",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "captain-hook-s-sushi-pho-thai-2612",
+   "name": "Captain Hook's Sushi/ Pho/Thai",
+   "address": "2612 Santa Barbara Blvd Ste 12-13, Cape Coral, FL 33914",
+   "phone": "(239) 673-8138",
+   "category": "Japanese",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "carrabba-s-italian-grill-762",
+   "name": "Carrabba's Italian Grill",
+   "address": "762 Pine Island Rd SW, Cape Coral, FL 33991",
+   "phone": "(239) 574-2797",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily 4–6 PM",
+    "deals": "$5–9 cocktails, sangria and wine; $3 Bud Light and Peroni drafts",
+    "source": "discoverhappyhours.com",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "ceno-grille-1715",
+   "name": "Ceno Grille",
+   "address": "1715 Cape Coral Pkwy W Ste 5, Cape Coral, FL 33914",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Sat 3–6 PM",
+    "deals": "$1 off all glasses of wine and beer",
+    "source": "discoverhappyhours.com",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "checkers-1628",
+   "name": "Checkers",
+   "address": "1628 Skyline Blvd, Cape Coral, FL 33991",
+   "phone": "(239) 922-1070",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "chens-china-bistro-1242",
+   "name": "Chens China Bistro",
+   "address": "1242 SW Pine Island Rd #55-56, Cape Coral, FL 33991",
+   "phone": "(239) 458-1818",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "chicago-pizza-1341",
+   "name": "Chicago Pizza",
+   "address": "1341 SE 47 Terr, Cape Coral, FL 33904",
+   "phone": "(239) 945-2262",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "chick-fil-a-at-pine-island-road-1790",
+   "name": "Chick-Fil-A at Pine Island Road",
+   "address": "1790 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 242-8748",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "chickaroo-kitchen-1619",
+   "name": "Chickaroo Kitchen",
+   "address": "1619 Del Prado Blvd, Cape Coral, FL 33990",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "chicken-salad-chick-1206",
+   "name": "Chicken Salad Chick",
+   "address": "1206 Solaris Drive, Cape Coral, FL 33909",
+   "phone": "(239) 837-7199",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "chili-s-grill-bar-1760",
+   "name": "Chili's Grill & Bar",
+   "address": "1760 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 242-8724",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Fri 3–6 PM",
+    "deals": "",
+    "source": "whereat.io listing",
+    "confidence": "low"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "china-express-106",
+   "name": "China Express",
+   "address": "106 Hancock Bridge Pkwy W E18, Cape Coral, FL 33991",
+   "phone": "(239) 573-8811",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "china-express-ii-2522",
+   "name": "China Express II",
+   "address": "2522 Santa Barbara Blvd, Cape Coral, FL 33914",
+   "phone": "(239) 573-9988",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "china-palace-3015",
+   "name": "China Palace",
+   "address": "3015 SW Pineisland Rd #103, Cape Coral, FL 33991",
+   "phone": "(239) 282-2388",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "china-tokyo-express-4827",
+   "name": "China Tokyo Express",
+   "address": "4827 Milton St, Cape Coral, FL 33904",
+   "phone": "(239) 540-0088",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "china-wok-cape-coral-1109",
+   "name": "China Wok Cape Coral",
+   "address": "1109 Del Prado Blvd S Unit 6, Cape Coral, FL 33990",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "chipotle-mexican-grill-2207",
+   "name": "Chipotle Mexican Grill",
+   "address": "2207 Del Prado Blvd S 120, Cape Coral, FL 33990",
+   "phone": "(239) 458-3944",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "chipotle-mexican-grille-2060",
+   "name": "Chipotle Mexican Grille",
+   "address": "2060 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 424-6451",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "choroni-bakery-cafe-wine-bar",
+   "name": "Choroni Bakery Cafe & Wine Bar",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "chuchi-s-restaurant-2114",
+   "name": "Chuchi's Restaurant",
+   "address": "2114 Santa Barbara Blvd, Cape Coral, FL 33991",
+   "phone": "(239) 666-4121",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cicis-1430",
+   "name": "Cicis",
+   "address": "1430 Del Prado Blvd S, Cape Coral, FL 33990",
+   "phone": "(239) 573-7225",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "citanos-cafeteria-30",
+   "name": "Citanos Cafeteria",
+   "address": "30 Hancock Bridge Pkwy Unit 101, Cape Coral, FL 33991",
+   "phone": "(239) 599-8955",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "clase-azul-modern-mexican-cuisine-3922",
+   "name": "Clase Azul Modern Mexican Cuisine",
+   "address": "3922 Del Prado Blvd S, Cape Coral, FL 33904",
+   "phone": "(239) 471-0338",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Fri 11 AM–5 PM",
+    "deals": "",
+    "source": "discoverhappyhours.com",
+    "confidence": "low"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "class-six-3100",
+   "name": "Class Six",
+   "address": "3100 Del Prado Blvd S, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "coco-bakery-1480",
+   "name": "Coco Bakery",
+   "address": "1480 NE Pine Island Rd Unit 2E, Cape Coral, FL 33909",
+   "phone": "(239) 895-6274",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "coffee-rush-1189",
+   "name": "Coffee Rush",
+   "address": "1189 SW Pine Island Rd, Cape Coral, FL 33991",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cold-stone-creamery-2311",
+   "name": "Cold Stone Creamery",
+   "address": "2311 Santa Barbara Blvd #109, Cape Coral, FL 33991",
+   "phone": "(239) 573-1006",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "collados-cuban-cuisine-1918",
+   "name": "Collados Cuban Cuisine",
+   "address": "1918 Del Prado Blvd S Unit #3, Cape Coral, FL 33990",
+   "phone": "(239) 541-8242",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "coral-blue-bar-3523",
+   "name": "Coral Blue Bar",
+   "address": "3523 Del Prado Blvd S, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cork-soakers-837",
+   "name": "Cork Soakers",
+   "address": "837 SE 47 Ter, Cape Coral, FL 33904",
+   "phone": "(239) 542-6622",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "crisp-creperie-2301",
+   "name": "Crisp Creperie",
+   "address": "2301 Del Prado Blvd S Ste 840, Cape Coral, FL 33990",
+   "phone": "(239) 424-8405",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "crooked-cow-3310",
+   "name": "Crooked Cow",
+   "address": "3310 Del Prado Blvd S, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cruisers-lounge-1517",
+   "name": "Cruisers Lounge",
+   "address": "1517 SE 47 Terrace, Cape Coral, FL 33904",
+   "phone": "(239) 673-8002",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cuban-restaurant-el-tropical-428",
+   "name": "Cuban Restaurant El Tropical",
+   "address": "428 Del Prado Blvd N Unit 112-114, Cape Coral, FL 33909",
+   "phone": "(239) 772-8858",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cubana-bakery-cafe-2708",
+   "name": "Cubana Bakery & Cafe",
+   "address": "2708 Santa Barbara Blvd #101, Cape Coral, FL 33914",
+   "phone": "(239) 673-7081",
+   "category": "Latin",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cubans-coco-loco-restaurant-1311",
+   "name": "Cubans Coco Loco Restaurant",
+   "address": "1311 Del Prado Blvd Unit B & C, Cape Coral, FL 33990",
+   "phone": "(239) 471-7792",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cubataly-2555",
+   "name": "Cubataly",
+   "address": "2555 NE Pine Island Rd, Cape Coral, FL",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "cubay-restaurant-3032",
+   "name": "Cubay Restaurant",
+   "address": "3032 Santa Barbara Blvd, Cape Coral, FL 33914",
+   "phone": "",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "culver-s-1607",
+   "name": "Culver's",
+   "address": "1607 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "(239) 257-3841",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "culver-s-309",
+   "name": "Culver's",
+   "address": "309 SW Pine Island Rd, Cape Coral, FL 33991",
+   "phone": "(239) 673-9835",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "culver-s-2526",
+   "name": "Culver's",
+   "address": "2526 Skyline Blvd, Cape Coral, FL 33914",
+   "phone": "(239) 217-0234",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "culver-s-2974",
+   "name": "Culver's",
+   "address": "2974 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 257-1563",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "dairons-cuban-pizzeria-311",
+   "name": "Dairons Cuban Pizzeria",
+   "address": "311 Del Prado Blvd South Unit #3, Cape Coral, FL 33990",
+   "phone": "(239) 471-7280",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "dairy-queen-grill-and-chill-1419",
+   "name": "Dairy Queen Grill and Chill",
+   "address": "1419 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "daria-s-german-bakery-bistro-3512",
+   "name": "Daria`s German Bakery & Bistro",
+   "address": "3512 Del Prado Blvd S Ste 104, Cape Coral, FL 33904",
+   "phone": "(941) 249-3384",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "denny-s-1306",
+   "name": "Denny's",
+   "address": "1306 Del Prado Blvd S, Cape Coral, FL 33990",
+   "phone": "(239) 772-9997",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "detoditos-1127",
+   "name": "Detoditos",
+   "address": "1127 Del Prado Blvd S Unit A & B, Cape Coral, FL 33990",
+   "phone": "(239) 471-0235",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "diamond-billiards-1242",
+   "name": "Diamond Billiards",
+   "address": "1242 SW Pine Island Rd Ste 4, Cape Coral, FL 33991",
+   "phone": "(239) 573-7665",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "dixie-roadhouse-1023",
+   "name": "Dixie Roadhouse",
+   "address": "1023 SE 47th Ter, Cape Coral, FL 33904",
+   "phone": "(239) 541-7900",
+   "category": "Steak & BBQ",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "dockside-juicery-5793",
+   "name": "Dockside Juicery",
+   "address": "5793 Cape Harbour Dr Unit 123, Cape Coral, FL 33914",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "dominican-experience-122",
+   "name": "Dominican Experience",
+   "address": "122 Chiquita Blvd S Unit 3, Cape Coral, FL 33991",
+   "phone": "(239) 413-3160",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "domino-s-pizza-3904",
+   "name": "Domino's Pizza",
+   "address": "3904 Skyline Blvd, Cape Coral, FL 33914",
+   "phone": "",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "domino-s-pizza-4409",
+   "name": "Domino's Pizza",
+   "address": "4409 Del Prado Blvd S, Cape Coral, FL 33904",
+   "phone": "(239) 549-5500",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "domino-s-pizza-1506",
+   "name": "Domino's Pizza",
+   "address": "1506 Chiquita Blvd S, Cape Coral, FL 33991",
+   "phone": "",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "domino-s-pizza-1133",
+   "name": "Domino's Pizza",
+   "address": "1133 Del Prado Blvd S, Cape Coral, FL 33990",
+   "phone": "(239) 772-5060",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "domino-s-pizza-1609",
+   "name": "Domino's Pizza",
+   "address": "1609 Andalusia Blvd Unit 1, Cape Coral, FL 33909",
+   "phone": "(239) 458-9905",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "dq-grill-chill-2525",
+   "name": "DQ Grill & Chill",
+   "address": "2525 Skyline Blvd, Cape Coral, FL 33914",
+   "phone": "(239) 333-2403",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "duffy-s-sports-grill-627",
+   "name": "Duffy's Sports Grill",
+   "address": "627 Cape Coral Pkwy W, Cape Coral, FL 33914",
+   "phone": "(239) 205-6771",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "listed",
+    "times": "2-for-1 drinks all day, every day",
+    "deals": "",
+    "source": "come-to-cape-coral.com",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "dunkin-3051",
+   "name": "Dunkin",
+   "address": "3051 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 997-1322",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "dunkin-904",
+   "name": "Dunkin",
+   "address": "904 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "(239) 540-7070",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "dunkin-1715",
+   "name": "Dunkin",
+   "address": "1715 Cape Coral Pkwy W Ste 22-23, Cape Coral, FL 33914",
+   "phone": "(239) 471-4866",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "dunkin-3336",
+   "name": "Dunkin",
+   "address": "3336 Del Prado Blvd S, Cape Coral, FL 33904",
+   "phone": "(239) 549-7656",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "dunkin-2221",
+   "name": "Dunkin",
+   "address": "2221 Santa Barbara Blvd, Cape Coral, FL 33991",
+   "phone": "(239) 772-8885",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "dunkin-1662",
+   "name": "Dunkin",
+   "address": "1662 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 242-2638",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "dunkin-1014",
+   "name": "Dunkin'",
+   "address": "1014 Del Prado Blvd S, Cape Coral, FL 33990",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "dunkin-donuts-58",
+   "name": "Dunkin' Donuts",
+   "address": "58 Nicholas Pkwy, Cape Coral, FL 33991",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "east-of-chicago-pizza-4706",
+   "name": "East of Chicago Pizza",
+   "address": "4706 SE 9 Pl A-b, Cape Coral, FL 33904",
+   "phone": "(239) 360-7259",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "east-of-chicago-pizza-1260",
+   "name": "East of Chicago Pizza",
+   "address": "1260 NE 8th St Suite #108, Cape Coral, FL 33909",
+   "phone": "(239) 360-3742",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "east-of-chicago-pizza-1306",
+   "name": "East of Chicago Pizza",
+   "address": "1306 Santa Barbara Blvd Ste 7, Cape Coral, FL",
+   "phone": "",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "eight-foot-brewing",
+   "name": "Eight-Foot Brewing",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "einstein-bros-bagels-2068",
+   "name": "Einstein Bros Bagels",
+   "address": "2068 NE Pine Island Rd Ste 400, Cape Coral, FL 33909",
+   "phone": "(239) 829-6495",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "el-mambo-restaurant-4716",
+   "name": "El Mambo Restaurant",
+   "address": "4716 Del Prado Blvd, Cape Coral, FL 33904",
+   "phone": "(239) 542-9995",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "el-mambo-restaurant-ii-1515",
+   "name": "El Mambo Restaurant II",
+   "address": "1515 SE 47 Terr Unit B, Cape Coral, FL 33904",
+   "phone": "(239) 945-2587",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "el-mazorcazo-1327",
+   "name": "El Mazorcazo",
+   "address": "1327 NE Pine Island Rd #108, Cape Coral, FL 33909",
+   "phone": "",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "el-patio-on-the-cape-603",
+   "name": "El Patio on the Cape",
+   "address": "603 Del Prado Blvd S Ste C & D, Cape Coral, FL 33990",
+   "phone": "(239) 800-2276",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "el-sitio-bar-restaurant-924",
+   "name": "El Sitio Bar Restaurant",
+   "address": "924 Del Prado Blvd S, Cape Coral, FL",
+   "phone": "",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "el-tarasco-mexican-restaurant-728",
+   "name": "El Tarasco Mexican Restaurant",
+   "address": "728 Pine Island Rd SW Ste 8-9, Cape Coral, FL 33991",
+   "phone": "(239) 673-6371",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "el-toro-mexican-bar-and-grill-3015",
+   "name": "El Toro Mexican Bar and Grill",
+   "address": "3015 SW Pine Island Rd Ste 117, Cape Coral, FL 33991",
+   "phone": "(239) 558-5181",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "empire-bagel-factory-122",
+   "name": "Empire Bagel Factory",
+   "address": "122 Chiquita S Blvd Unit 4, Cape Coral, FL 33991",
+   "phone": "(239) 228-5340",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "englunds-subs-1109",
+   "name": "Englunds Subs",
+   "address": "1109 Del Prado S #14, Cape Coral, FL 33990",
+   "phone": "(239) 458-0183",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "escondido-lounge-cape-coral-1019",
+   "name": "Escondido Lounge Cape Coral",
+   "address": "1019 Cape Coral Pkwy, Cape Coral, FL 33904",
+   "phone": "(239) 984-5912",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "fat-boys-pizza-and-subs-3571",
+   "name": "Fat Boys Pizza and Subs",
+   "address": "3571 Del Prado Blvd N, Ste 12, Cape Coral, FL 33909",
+   "phone": "(239) 441-1200",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "fathoms-restaurant-bar-5785",
+   "name": "Fathoms Restaurant & Bar",
+   "address": "5785 Cape Harbour Dr # 108, Cape Coral, FL 33914",
+   "phone": "(239) 542-0123",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "listed",
+    "times": "Tue–Sun 11:30 AM–6 PM",
+    "deals": "$1 off beer and liquor, $5 wells/house wine, $15 buckets (one source says Tue–Fri 2–5 PM)",
+    "source": "discoverhappyhours.com",
+    "confidence": "low"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "fins-seafood-dive-bar-3422",
+   "name": "Fins Seafood & Dive Bar",
+   "address": "3422 Del Prado Blvd S, Cape Coral, FL 33904",
+   "phone": "(239) 218-6257",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "listed",
+    "times": "Weekdays from 3 PM",
+    "deals": "",
+    "source": "come-to-cape-coral.com",
+    "confidence": "low"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "firehouse-subs-2612",
+   "name": "Firehouse Subs",
+   "address": "2612 Santa Barbara Blvd Ste 20, Cape Coral, FL 33914",
+   "phone": "(239) 800-2884",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "firehouse-subs-1519",
+   "name": "Firehouse Subs",
+   "address": "1519 NE Pine Island Road, Cape Coral, FL 33909",
+   "phone": "(239) 424-8164",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "first-round-draft-sports-bar-grille-1217",
+   "name": "First Round Draft Sports Bar & Grille",
+   "address": "1217 Del Prado Blvd S, Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "first-watch-2514",
+   "name": "First Watch",
+   "address": "2514 Santa Barbara Blvd, Cape Coral, FL 33914",
+   "phone": "(239) 475-0289",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "first-watch-restaurant-1523",
+   "name": "First Watch Restaurant",
+   "address": "1523 NE Pine Island Rd, Unit 11, Cape Coral, FL 33909",
+   "phone": "(941) 907-9800",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "fish-tale-grill-by-merrick-seafood-1229",
+   "name": "Fish Tale Grill by Merrick Seafood",
+   "address": "1229 SE 47 Ter, Cape Coral, FL 33904",
+   "phone": "(239) 542-8080",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "five-guys-coral-walk-1860",
+   "name": "Five Guys (Coral Walk)",
+   "address": "1860 NE Pine Island Rd Ste 210, Cape Coral, FL 33909",
+   "phone": "(239) 242-0384",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "five-guys-famous-burgers-and-fries-2612",
+   "name": "Five Guys Famous Burgers and Fries",
+   "address": "2612 Santa Barbara Blvd Unit 7&8, Cape Coral, FL 33914",
+   "phone": "(239) 242-6620",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "ford-s-garage-1719",
+   "name": "Ford's Garage",
+   "address": "1719 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "(239) 540-3673",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Fri 2–6 PM",
+    "deals": "$2 off drinks and drafts, premium wells $4, bar bites from $7",
+    "source": "swflhappyhour.com (checked Nov 2026)",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "french-press-5789",
+   "name": "French Press",
+   "address": "5789 Cape Harbour Dr # 101, Cape Coral, FL 33914",
+   "phone": "(239) 542-0212",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "front-porch-social-4721",
+   "name": "Front Porch Social",
+   "address": "4721 Vincennes Blvd, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "listed",
+    "times": "Tue–Sun 3–6 PM",
+    "deals": "Happy hour cocktails $8",
+    "source": "menupedia.us / whereat.io",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "gandules-grill-303",
+   "name": "Gandules Grill",
+   "address": "303 NE 3rd St, Cape Coral, FL",
+   "phone": "",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "gather-5971",
+   "name": "Gather",
+   "address": "5971 Silver King Blvd 116, Cape Coral, FL 33914",
+   "phone": "(239) 673-9939",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "listed",
+    "times": "Tue–Fri 5–6 PM; Sat–Sun 3–6 PM",
+    "deals": "Food $8–14, drinks $5–10, $1 off domestic beer",
+    "source": "gathercape.com (official)",
+    "confidence": "high"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "gator-mikes-family-fun-park-snack-bar-35",
+   "name": "Gator Mikes Family Fun Park Snack Bar",
+   "address": "35 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 574-4386",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "ginger-bistro-2366",
+   "name": "Ginger Bistro",
+   "address": "2366 Surfside Blvd Ste C-101, Cape Coral, FL 33991",
+   "phone": "(239) 558-8801",
+   "category": "Asian",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "gino-s-pizzeria-3108",
+   "name": "Gino's Pizzeria",
+   "address": "3108 Santa Barbara Blvd 109, Cape Coral, FL",
+   "phone": "",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "gourmet-latte-fl-1518",
+   "name": "Gourmet Latte' FL",
+   "address": "1518 Hancock Bridge Pkwy, Cape Coral, FL 33990",
+   "phone": "(941) 759-3178",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "grados-pizza-1242",
+   "name": "Grados Pizza",
+   "address": "1242 SW Pine Island Rd Ste 17, Cape Coral, FL",
+   "phone": "",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "grazing-haus-1615",
+   "name": "Grazing Haus",
+   "address": "1615 SE 47 Ter Unit B, Cape Coral, FL 33904",
+   "phone": "(239) 788-4656",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "greek-spot-1239",
+   "name": "Greek Spot",
+   "address": "1239 Cape Coral Pkwy E #10, Cape Coral, FL 33904",
+   "phone": "(239) 471-7332",
+   "category": "Mediterranean",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "gusto-cucina-italiana-229",
+   "name": "Gusto Cucina Italiana",
+   "address": "229 Del Prado Blvd #15, Cape Coral, FL 33909",
+   "phone": "(239) 458-5900",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "hacienda-jalisco-bar-grill-4820",
+   "name": "Hacienda Jalisco Bar & Grill",
+   "address": "4820 Candia St, Cape Coral, FL 33904",
+   "phone": "(239) 257-1560",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "hana-japanese-steakhouse-and-sushi-lounge-30",
+   "name": "Hana Japanese Steakhouse and Sushi Lounge",
+   "address": "30 Hancock Bridge Pkwy W Ste 112, Cape Coral, FL 33991",
+   "phone": "(239) 573-1228",
+   "category": "Japanese",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "happy-china-garden-1616",
+   "name": "Happy China Garden",
+   "address": "1616 W Cape Coral Pkwy Ste 110, Cape Coral, FL 33914",
+   "phone": "(239) 945-8866",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "happy-sun-ice-cream-110",
+   "name": "Happy Sun Ice Cream",
+   "address": "110 NE 2nd Pl, Units 301-302, Cape Coral, FL 33909",
+   "phone": "(239) 599-4282",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "hart-soul-cafe-1722",
+   "name": "Hart + Soul Cafe",
+   "address": "1722 Del Prado Blvd S Unit 1 C, Cape Coral, FL 33990",
+   "phone": "(239) 800-2270",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "hi-cubans-231",
+   "name": "Hi Cubans",
+   "address": "231 Del Prado Blvd S Unit 10, Cape Coral, FL 33990",
+   "phone": "(239) 471-7176",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "high-tide-social-house-6095",
+   "name": "High Tide Social House",
+   "address": "6095 Silver King Blvd, Cape Coral, FL 33914",
+   "phone": "(239) 341-4441",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "hooked-island-grill-4721",
+   "name": "Hooked Island Grill",
+   "address": "4721 SE 10th Pl, Cape Coral, FL 33904",
+   "phone": "(239) 471-0134",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "listed",
+    "times": "Drinks 2–6 PM; food 2–5 PM",
+    "deals": "House wine and wells $4–7, domestic drafts $3",
+    "source": "swflhappyhour.com (checked Nov 2026)",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "hooters-3120",
+   "name": "Hooters",
+   "address": "3120 Del Prado Blvd, Cape Coral, FL 33904",
+   "phone": "(941) 945-4700",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "house-of-omelets-900",
+   "name": "House of Omelets",
+   "address": "900 SW Pine Island Rd #122, Cape Coral, FL 33991",
+   "phone": "(239) 673-6301",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "house-of-omelets-440",
+   "name": "House of Omelets",
+   "address": "440 Cape Coral Pkwy E 1st Floor, Cape Coral, FL 33904",
+   "phone": "(239) 360-8083",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "huey-magoo-s-chicken-tenders-1511",
+   "name": "Huey Magoo's Chicken Tenders",
+   "address": "1511 NE Pine Island Rd Ste 110, Cape Coral, FL 33909",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "hungry-captain-1260",
+   "name": "Hungry Captain",
+   "address": "1260 NE 8 St Unit 111, Cape Coral, FL 33909",
+   "phone": "(239) 471-7095",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "hunters-run-executive-golf-club-1006",
+   "name": "Hunters Run Executive Golf Club",
+   "address": "1006 SE 4 Pl, Cape Coral, FL 33990",
+   "phone": "(941) 574-4454",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "hurricane-grill-wings-756",
+   "name": "Hurricane Grill & Wings",
+   "address": "756 SW Pine Island Rd, Cape Coral, FL 33991",
+   "phone": "(239) 800-3141",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "i-love-pho-vietnamese-restaurant-601",
+   "name": "I Love Pho Vietnamese Restaurant",
+   "address": "601 Del Prado Blvd N, Cape Coral, FL 33909",
+   "phone": "(239) 257-1394",
+   "category": "Asian",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "ice-cream-club-of-cape-coral-2384",
+   "name": "Ice Cream Club of Cape Coral",
+   "address": "2384 Surfside Blvd #107, Cape Coral, FL 33991",
+   "phone": "(239) 282-2852",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "ice-ssss-creamin-290",
+   "name": "Ice Ssss Creamin",
+   "address": "290 Nicholas Pkwy NW Unit 18, Cape Coral, FL 33991",
+   "phone": "(239) 560-6132",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "ice-sssscreamin-1017",
+   "name": "Ice Sssscreamin",
+   "address": "1017 Cape Coral Pky E Ste A, Cape Coral, FL 33904",
+   "phone": "(239) 541-9100",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "iguana-mia-1027",
+   "name": "Iguana Mia",
+   "address": "1027 E Cape Coral Pkwy, Cape Coral, FL 33904",
+   "phone": "(239) 945-7755",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily 2–6 PM; Fri–Sat 9–10 PM",
+    "deals": "Discounted margaritas and premium wells",
+    "source": "discoverhappyhours.com",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "il-primo-pizza-wings-v-2209",
+   "name": "Il Primo Pizza & Wings V",
+   "address": "2209 Santa Barbara Blvd #103, Cape Coral, FL 33990",
+   "phone": "(239) 573-3435",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "independent-pub-1219",
+   "name": "Independent Pub",
+   "address": "1219 Lafayette St, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "indian-breeze-1414",
+   "name": "Indian Breeze",
+   "address": "1414 Capecoral Pkwy E, Cape Coral, FL 33904",
+   "phone": "(239) 789-8948",
+   "category": "Indian",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "j-p-fusion-1715",
+   "name": "J & P Fusion",
+   "address": "1715 Cape Coral Pkwy West, Cape Coral, FL 33914",
+   "phone": "",
+   "category": "Asian",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "j-and-j-paradise-bakery-111",
+   "name": "J and J Paradise Bakery",
+   "address": "111 Del Prado Blvd N Ste 9, Cape Coral, FL 33909",
+   "phone": "(239) 341-0007",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "jason-s-deli-2311",
+   "name": "Jason's Deli",
+   "address": "2311 Santa Barbara Blvd, Cape Coral, FL 33991",
+   "phone": "(239) 458-8700",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "jersey-mike-s-subs-1751",
+   "name": "Jersey Mike's Subs",
+   "address": "1751 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 221-2551",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "jersey-mike-s-subs-1806",
+   "name": "Jersey Mike's Subs",
+   "address": "1806 Del Prado Blvd S, Cape Coral, FL 33990",
+   "phone": "(239) 443-5218",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "jessie-jays-off-the-bone-bbq-450",
+   "name": "Jessie Jays Off the Bone BBQ",
+   "address": "450 Andalusia Blvd, Cape Coral, FL",
+   "phone": "",
+   "category": "Steak & BBQ",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "jet-s-pizza-821",
+   "name": "Jet's Pizza",
+   "address": "821 Cape Coral Pkwy W Unit 1 & 2, Cape Coral, FL 33914",
+   "phone": "(239) 257-3270",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "jet-s-pizza-643",
+   "name": "Jet's Pizza",
+   "address": "643 Cape Coral Pkwy E Ste F, Cape Coral, FL",
+   "phone": "",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "jet-s-pizza-of-cape-coral-80",
+   "name": "Jet's Pizza of Cape Coral",
+   "address": "80 Hancock Bridge Pkwy W Ste G-24, Cape Coral, FL 33991",
+   "phone": "(239) 458-1940",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "jimmy-john-s-gourmet-sandwiches-822",
+   "name": "Jimmy John's Gourmet Sandwiches",
+   "address": "822 Del Prado Blvd S, Cape Coral, FL 33990",
+   "phone": "(239) 821-0711",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "joe-daddy-s-pizza-2841",
+   "name": "Joe Daddy's Pizza",
+   "address": "2841 Del Prado Blvd N Ste 105, Cape Coral, FL 33909",
+   "phone": "(239) 573-6600",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "juanca-bakery-1524",
+   "name": "Juanca Bakery",
+   "address": "1524 Hancock Bridge Pkwy Unit A, Cape Coral, FL 33990",
+   "phone": "(239) 440-7373",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "jungle-bird-tiki-1520",
+   "name": "Jungle Bird Tiki",
+   "address": "1520 Lafayette St, Cape Coral, FL 33904",
+   "phone": "(239) 471-4111",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily 2–6 PM (Mon from 4 PM); Sun brunch 10 AM–2 PM",
+    "deals": "$3 domestic beer, $7 wells/signature cocktails/wine, $9 food; half-price tiki cocktails Tue",
+    "source": "swflhappyhour.com (checked Nov 2026)",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "keg-and-cow-2384",
+   "name": "Keg and Cow",
+   "address": "2384 Surfside Blvd Ste A-101, Cape Coral, FL 33991",
+   "phone": "(239) 558-5001",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Fri 3–6 PM",
+    "deals": "$1 off pints and wine (older listing)",
+    "source": "come-to-cape-coral.com",
+    "confidence": "low"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "keke-s-breakfast-cafe-1847",
+   "name": "Keke's Breakfast Cafe",
+   "address": "1847 NE Pine Island Rd Unit 610, Cape Coral, FL 33909",
+   "phone": "(239) 242-0300",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "kentucky-fried-chicken-2210",
+   "name": "Kentucky Fried Chicken",
+   "address": "2210 Del Prado Blvd, Cape Coral, FL 33990",
+   "phone": "(941) 772-2289",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "kfc-20",
+   "name": "KFC",
+   "address": "20 Hancock Bridge Pkwy, Cape Coral, FL 33991",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "knicker-s-pub-1800",
+   "name": "Knicker's Pub",
+   "address": "1800 NW 28 Ave, Cape Coral, FL 33993",
+   "phone": "(941) 283-4264",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "koto-grill-1830",
+   "name": "Koto Grill",
+   "address": "1830 NE Pine Island Rd Ste 155, Cape Coral, FL 33909",
+   "phone": "(239) 772-1965",
+   "category": "Japanese",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "kumo-japanese-steak-house-2517",
+   "name": "Kumo Japanese Steak House",
+   "address": "2517 Santa Barbara Blvd #12, Cape Coral, FL 33914",
+   "phone": "(239) 573-9866",
+   "category": "Japanese",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "la-fondita-mexican-food-303",
+   "name": "La Fondita Mexican Food",
+   "address": "303 NE 3 Ave #4, Cape Coral, FL 33909",
+   "phone": "(239) 349-7759",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "la-nortenita-ii-1541",
+   "name": "La Nortenita II",
+   "address": "1541 Del Prado Blvd N, Cape Coral, FL",
+   "phone": "",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "la-roca-restaurant-103",
+   "name": "La Roca Restaurant",
+   "address": "103 Del Prado Blvd N, Cape Coral, FL 33909",
+   "phone": "(239) 242-0334",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "la-venezia-ballroom-roberto-s-lounge-4646",
+   "name": "La Venezia Ballroom & Roberto's Lounge",
+   "address": "4646 SE 11 Pl, Cape Coral, FL 33904",
+   "phone": "(239) 945-0034",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "latitude-78-bar-grille",
+   "name": "Latitude 78 Bar & Grille",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "le-petit-pastry-and-tea-2301",
+   "name": "Le Petit Pastry and Tea",
+   "address": "2301 Del Prado Blvd S Ste 620, Cape Coral, FL",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "lelulos-pizza-life-3123",
+   "name": "Lelulos Pizza Life",
+   "address": "3123 Chiquita Blvd South, Cape Coral, FL 33914",
+   "phone": "(239) 205-0998",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "lenny-s-grill-subs-2301",
+   "name": "Lenny's Grill & Subs",
+   "address": "2301 Del Prado Blvd #665, Cape Coral, FL",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "leoni-s-pizzeria-3015",
+   "name": "Leoni's Pizzeria",
+   "address": "3015 SW Pine Island Rd Unit 104, Cape Coral, FL 33991",
+   "phone": "(239) 475-9800",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "let-s-waffle-1031",
+   "name": "Let's Waffle",
+   "address": "1031 Santa Barbara Blvd Ste 12, Cape Coral, FL 33991",
+   "phone": "(239) 898-1041",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "lion-king-chinese-restaurant-1751",
+   "name": "Lion King Chinese Restaurant",
+   "address": "1751 NE Pine Island Road #c, Cape Coral, FL 33909",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "little-caesars-30",
+   "name": "Little Caesars",
+   "address": "30 Hancock Bridge Pkwy W, Cape Coral, FL 33991",
+   "phone": "(239) 573-1492",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "little-ceasars-pizza-1715",
+   "name": "Little Ceasars Pizza",
+   "address": "1715 Cape Coral Pkwy W Unit 9, Cape Coral, FL 33914",
+   "phone": "(239) 541-1100",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "lobster-lady-seafood-market-bistro-1715",
+   "name": "Lobster Lady Seafood Market & Bistro",
+   "address": "1715 Cape Coral Pkwy W, Cape Coral, FL 33914",
+   "phone": "(239) 471-0136",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily 11 AM–5 PM; 10 PM–12 AM",
+    "deals": "Drink specials",
+    "source": "discoverhappyhours.com",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "long-island-pizza-3812",
+   "name": "Long Island Pizza",
+   "address": "3812 Skyline Blvd Unit E, Cape Coral, FL 33914",
+   "phone": "(239) 837-8221",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "longhorn-steakhouse-1851",
+   "name": "Longhorn Steakhouse",
+   "address": "1851 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 599-3324",
+   "category": "Steak & BBQ",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "love-boat-ice-cream-1523",
+   "name": "Love Boat Ice Cream",
+   "address": "1523 NE Pine Island Rd Ste 150, Cape Coral, FL 33909",
+   "phone": "(239) 789-6416",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "luciano-s-pizza-728",
+   "name": "Luciano's Pizza",
+   "address": "728 SW Pine Island Rd Unit 3, Cape Coral, FL 33991",
+   "phone": "(239) 360-8112",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "luigi-ristorante-italiano-3816",
+   "name": "Luigi Ristorante Italiano",
+   "address": "3816 Chiquita Blvd S, Cape Coral, FL 33914",
+   "phone": "(239) 542-3030",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "luis-bakery-bar-grill",
+   "name": "Luis Bakery Bar & Grill",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "luna-creamery-sweets-1127",
+   "name": "Luna Creamery & Sweets",
+   "address": "1127 Del Prado S, Cape Coral, FL 33990",
+   "phone": "(239) 766-9836",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mangia-bene-2301",
+   "name": "Mangia Bene",
+   "address": "2301 Del Prado Blvd, Cape Coral, FL 33990",
+   "phone": "(239) 410-9594",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "marco-s-pizza-290",
+   "name": "Marco's Pizza",
+   "address": "290 Nicholas Pkwy NW Ste 8, Cape Coral, FL 33991",
+   "phone": "(239) 458-4000",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "marco-s-pizza-2717",
+   "name": "Marco's Pizza",
+   "address": "2717 Santa Barbara Blvd Ste 120, Cape Coral, FL 33914",
+   "phone": "(239) 790-7979",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "maria-s-pizzeria-restaurant-1224",
+   "name": "Maria's Pizzeria & Restaurant",
+   "address": "1224 SE 46 Ln, Cape Coral, FL 33904",
+   "phone": "(239) 945-6006",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "marker-92-5961",
+   "name": "Marker 92",
+   "address": "5961 Silver King Blvd, Cape Coral, FL 33914",
+   "phone": "(239) 541-5000",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily 3–6 PM",
+    "deals": "Drink and food specials",
+    "source": "marriott.com (Westin, official)",
+    "confidence": "high"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "martin-s-pub",
+   "name": "Martin's Pub",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "masala-mantra-the-indian-bistro-4518",
+   "name": "Masala Mantra the Indian Bistro",
+   "address": "4518 Del Prado Blvd S Unit 1-2, Cape Coral, FL 33904",
+   "phone": "(239) 540-6300",
+   "category": "Indian",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "master-crab-2414",
+   "name": "Master Crab",
+   "address": "2414 Del Prado Blvd S, Cape Coral, FL 33990",
+   "phone": "(239) 984-2367",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mcdonald-s-1222",
+   "name": "McDonald's",
+   "address": "1222 Cape Coral Pkwy, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mcdonald-s-1604",
+   "name": "McDonald's",
+   "address": "1604 W Cape Coral Pkwy, Cape Coral, FL 33914",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mcdonald-s-3061",
+   "name": "McDonald's",
+   "address": "3061 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mcdonalds-2404",
+   "name": "McDonalds",
+   "address": "2404 Santa Barbara Blvd, Cape Coral, FL 33914",
+   "phone": "(239) 573-0800",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mcdonalds-8",
+   "name": "McDonalds",
+   "address": "8 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 772-5888",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mcdonalds-2541",
+   "name": "McDonalds",
+   "address": "2541 Del Prado N, Cape Coral, FL 33909",
+   "phone": "(239) 574-7574",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mcdonalds-2925",
+   "name": "McDonalds",
+   "address": "2925 SW Pine Island Rd, Cape Coral, FL 33991",
+   "phone": "(239) 282-9617",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mcdonalds-1715",
+   "name": "McDonalds",
+   "address": "1715 Del Praso Blvd, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mel-s-diner-1331",
+   "name": "Mel's Diner",
+   "address": "1331 Pine Island Rd NE, Cape Coral, FL 33909",
+   "phone": "(239) 242-0218",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mellow-mushroom-53",
+   "name": "Mellow Mushroom",
+   "address": "53 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 539-2099",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "menchies-frozen-yogurt-1830",
+   "name": "Menchies Frozen Yogurt",
+   "address": "1830 Pine Island Rd NE Ste 140, Cape Coral, FL 33909",
+   "phone": "(239) 677-0013",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mermaid-liquor-bar",
+   "name": "Mermaid Liquor Bar",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "metro-diner-1625",
+   "name": "Metro Diner",
+   "address": "1625 Cape Coral Pkwy E Unit A101, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mexico-lindo-restaurant-3724",
+   "name": "Mexico Lindo Restaurant",
+   "address": "3724 Del Prado Blvd, Cape Coral, FL 33904",
+   "phone": "(239) 728-7150",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Fri 3–5 PM",
+    "deals": "$3 house margaritas and wells, 2-for-1 drafts, 50% off wine",
+    "source": "discoverhappyhours.com",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "milly-s-dominican-kitchen-601",
+   "name": "Milly's Dominican Kitchen",
+   "address": "601 Del Prado Blvd N Unit 3, Cape Coral, FL 33909",
+   "phone": "(239) 297-1530",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mission-bbq-1519",
+   "name": "Mission BBQ",
+   "address": "1519 NE Pine Island Rd Bldg B, Cape Coral, FL 33909",
+   "phone": "(239) 356-5542",
+   "category": "Steak & BBQ",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "misto-bar-grill-231",
+   "name": "Misto Bar & Grill",
+   "address": "231 Del Prado Blvd S Unit 1, Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "mobz-eatery-1625",
+   "name": "Mobz Eatery",
+   "address": "1625 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "(239) 471-5867",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "moe-s-southwest-grill-1631",
+   "name": "Moe's Southwest Grill",
+   "address": "1631 Del Prado Blvd Ste 412, Cape Coral, FL",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "monarca-s-authentic-mexican-cuisine-bar-grill-1604",
+   "name": "Monarca's Authentic Mexican Cuisine Bar & Grill",
+   "address": "1604 SE 46 St, Cape Coral, FL 33904",
+   "phone": "(239) 540-9533",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "monkey-bar-steakhouse-1428",
+   "name": "Monkey Bar & Steakhouse",
+   "address": "1428 Lafayette St, Cape Coral, FL 33904",
+   "phone": "(239) 549-8800",
+   "category": "Steak & BBQ",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily open–8 PM",
+    "deals": "Half-price liquor, house wine and well drinks",
+    "source": "mapquest.com listing / Cape Coral Living",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "my-village-play-cafe-1109",
+   "name": "My Village Play Cafe",
+   "address": "1109 Del Prado Blvd S Unit 2, Cape Coral, FL 33990",
+   "phone": "(239) 898-8673",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "nevermind-awesome-bar-eatery-925-927",
+   "name": "Nevermind Awesome Bar & Eatery",
+   "address": "925-927 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "(239) 246-3118",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "new-england-moorings-seafood-restaurant-1326",
+   "name": "New England Moorings Seafood Restaurant",
+   "address": "1326 SE 16 Pl, Cape Coral, FL",
+   "phone": "",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "nice-guys-pizza-beer-cocktails-1404",
+   "name": "Nice Guys Pizza, Beer & Cocktails",
+   "address": "1404 Cape Coral Pkwy E A & B, Cape Coral, FL 33904",
+   "phone": "(239) 549-7542",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "no-3-craft-brews-beer-bar-1319",
+   "name": "No.3 Craft Brews & Beer Bar",
+   "address": "1319 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "nonnie-s-wings-famous-philly-cheesesteak-and-pete-s-fish-311",
+   "name": "Nonnie's Wings Famous Philly Cheesesteak and Pete's Fish",
+   "address": "311 Del Prado Blvd Unit 5, Cape Coral, FL 33990",
+   "phone": "(239) 458-2447",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "oak-stone-4720",
+   "name": "Oak & Stone",
+   "address": "4720 SE 9 Pl Ste 400, Cape Coral, FL 33904",
+   "phone": "(941) 363-6254",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Fri 2–6 PM and 9 PM–close",
+    "deals": "25% off tap wall, wine and whiskey; $6–9 bites and drinks",
+    "source": "oakandstone.com (official)",
+    "confidence": "high"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "oda-pizzeria-bistro-900",
+   "name": "Oda Pizzeria Bistro",
+   "address": "900 SW Pine Island Rd, Cape Coral, FL 33991",
+   "phone": "(239) 402-8282",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "old-cuban-restaurant-bar-1242",
+   "name": "Old' Cuban Restaurant & Bar",
+   "address": "1242 SW Pine Island Rd Ste 35, 36, Cape Coral, FL 33991",
+   "phone": "(239) 541-8491",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "olive-garden-1910",
+   "name": "Olive Garden",
+   "address": "1910 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 573-0480",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "ollie-s-pub-records-and-beer",
+   "name": "Ollie's Pub Records and Beer",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "omelet-shop-drifters-4703",
+   "name": "Omelet Shop/Drifters",
+   "address": "4703 SW 16 Pl, Cape Coral, FL 33914",
+   "phone": "",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "on-fire-grill-1310",
+   "name": "On Fire Grill",
+   "address": "1310 NE Pine Island Rd, Cape Coral, FL",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "outback-steakhouse-1642",
+   "name": "Outback Steakhouse",
+   "address": "1642 Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 772-5454",
+   "category": "Steak & BBQ",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "outback-steakhouse-2329",
+   "name": "Outback Steakhouse",
+   "address": "2329 Skyline Blvd, Cape Coral, FL 33991",
+   "phone": "(239) 471-3109",
+   "category": "Steak & BBQ",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "overtime-pizza-sports-bar-1708",
+   "name": "Overtime Pizza & Sports Bar",
+   "address": "1708 Cape Coral Pkwy W #1, Cape Coral, FL 33914",
+   "phone": "(239) 541-3367",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Fri 11 AM–6 PM",
+    "deals": "$4 wells and wine, $3.50 domestic drafts",
+    "source": "swflhappyhour.com (checked Nov 2026)",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "paddywagon-irish-pub",
+   "name": "Paddywagon Irish Pub",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "palace-pub-wine-bar",
+   "name": "Palace Pub & Wine Bar",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "palmetto-pine-country-club-1940",
+   "name": "Palmetto-Pine Country Club",
+   "address": "1940 SW 9 Ct, Cape Coral, FL 33991",
+   "phone": "(239) 574-7262",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "panera-bread-1000",
+   "name": "Panera Bread",
+   "address": "1000 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "panera-bread-cafe-1830",
+   "name": "Panera Bread Cafe",
+   "address": "1830 NE Pine Island Rd Ste 160, Cape Coral, FL 33909",
+   "phone": "(239) 458-4162",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "papa-joe-s-italian-rest-814",
+   "name": "Papa Joe's Italian Rest",
+   "address": "814 Cape Coral Pkwy, Cape Coral, FL 33904",
+   "phone": "(941) 945-1700",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "papa-john-s-pizza-1616",
+   "name": "Papa John's Pizza",
+   "address": "1616 W Cape Coral Pkwy Ste 106, Cape Coral, FL 33914",
+   "phone": "(239) 542-7222",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "papa-john-s-pizza-1511",
+   "name": "Papa John's Pizza",
+   "address": "1511 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 205-7905",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "papa-john-s-pizza-1338",
+   "name": "Papa John's Pizza",
+   "address": "1338 Del Prado Blvd Ste 1, Cape Coral, FL",
+   "phone": "",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "papa-johns-339",
+   "name": "Papa Johns",
+   "address": "339 SW 10 Pl #101, Cape Coral, FL 33991",
+   "phone": "(239) 205-7795",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "paradise-deli-grill-2378",
+   "name": "Paradise Deli & Grill",
+   "address": "2378 Surfside Blvd #119, Cape Coral, FL 33991",
+   "phone": "(239) 282-2738",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "paradise-pizza-842",
+   "name": "Paradise Pizza",
+   "address": "842 Lafayette St, Cape Coral, FL 33904",
+   "phone": "(239) 945-1555",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily 2–5 PM",
+    "deals": "",
+    "source": "discoverhappyhours.com",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "parkside-cafe-2110",
+   "name": "Parkside Cafe",
+   "address": "2110 Chiquita Blvd S, Cape Coral, FL 33991",
+   "phone": "(239) 673-6000",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "parkway-subs-salads-catering-419",
+   "name": "Parkway Subs Salads & Catering",
+   "address": "419 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "(239) 549-4000",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "pei-wei-asian-kitchen-1511",
+   "name": "Pei Wei Asian Kitchen",
+   "address": "1511 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 342-1013",
+   "category": "Asian",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "perk-brew-1021",
+   "name": "Perk & Brew",
+   "address": "1021 Cape Coral Pkwy E # A, Cape Coral, FL 33904",
+   "phone": "(239) 542-6080",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "perkins-restaurant-and-bakery-1551",
+   "name": "Perkins Restaurant and Bakery",
+   "address": "1551 Del Prado Blvd S, Cape Coral, FL 33990",
+   "phone": "(239) 772-9000",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "philly-pretzel-factory-814",
+   "name": "Philly Pretzel Factory",
+   "address": "814 SW Pine Island Rd Unit 211, Cape Coral, FL 33991",
+   "phone": "(239) 217-0029",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "pho-bowl-106",
+   "name": "Pho Bowl",
+   "address": "106 Hancock Bridge Pkwy W Ste C13, Cape Coral, FL 33991",
+   "phone": "(239) 800-4832",
+   "category": "Asian",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "pho-honey-1109",
+   "name": "Pho Honey",
+   "address": "1109 Del Prado Blvd S Ste 15 & 16, Cape Coral, FL 33990",
+   "phone": "",
+   "category": "Asian",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "pinchers-crab-shack-5991",
+   "name": "Pinchers Crab Shack",
+   "address": "5991 Silver King Blvd #101, Cape Coral, FL 33914",
+   "phone": "(239) 540-7939",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "listed",
+    "times": "2-for-1 all day, every day; food specials 3–6 PM",
+    "deals": "2-for-1 wine, beer and well cocktails",
+    "source": "swflhappyhour.com (checked Nov 2026)",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "pizza-hut-2311",
+   "name": "Pizza Hut",
+   "address": "2311 Santa Barbara Blvd Ste 110, Cape Coral, FL 33991",
+   "phone": "(239) 772-2626",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "pizza-hut-1751",
+   "name": "Pizza Hut",
+   "address": "1751 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 997-5151",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "pizza-parma-4643",
+   "name": "Pizza Parma",
+   "address": "4643 Coronado Pkwy, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "pizzeria-del-gallo-1918",
+   "name": "Pizzeria del Gallo",
+   "address": "1918 Del Prado Blvd S Unit 4, Cape Coral, FL 33990",
+   "phone": "(239) 257-1252",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "point-57-3522",
+   "name": "Point 57",
+   "address": "3522 Del Prado Blvd S, Cape Coral, FL 33904",
+   "phone": "(239) 471-7785",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Fri 3–6 PM",
+    "deals": "Discounted beer, wine, cocktails and small plates (bar only)",
+    "source": "swflhappyhour.com (checked Nov 2026)",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "pollo-tropical-1652",
+   "name": "Pollo Tropical",
+   "address": "1652 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "",
+   "category": "Latin",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "pool-bar-westin-cape-coral-at-marina-village-5902",
+   "name": "Pool Bar @ Westin Cape Coral at Marina Village",
+   "address": "5902 Silver King Blvd, Cape Coral, FL 33914",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "popeyes-louisiana-kitchen-3111",
+   "name": "Popeyes Louisiana Kitchen",
+   "address": "3111 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 995-5770",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "popeyes-louisiana-kitchen-81",
+   "name": "Popeyes Louisiana Kitchen",
+   "address": "81 Hancock Bridge Pkwy West, Cape Coral, FL 33991",
+   "phone": "(239) 574-0067",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "pops-cafe-1015",
+   "name": "Pops Cafe",
+   "address": "1015 Cultural Parkway, Cape Coral, FL 33990",
+   "phone": "(239) 574-0134",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "prime-239-steakhouse-1715",
+   "name": "Prime 239 Steakhouse",
+   "address": "1715 Cape Coral Pkwy W Ste 30-33, Cape Coral, FL 33914",
+   "phone": "(239) 673-8816",
+   "category": "Steak & BBQ",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "pura-bliss-122",
+   "name": "Pura Bliss",
+   "address": "122 Chiquita Blvd S Unit 5, Cape Coral, FL 33991",
+   "phone": "(239) 579-0195",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "pure-green-2930",
+   "name": "Pure Green",
+   "address": "2930 Surfside Blvd, Cape Coral, FL 33991",
+   "phone": "(239) 961-9930",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "qdoba-mexican-eats-537",
+   "name": "Qdoba Mexican Eats",
+   "address": "537 SW Pine Island Rd 100, Cape Coral, FL 33991",
+   "phone": "(239) 980-0616",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "rack-em-spirits-times",
+   "name": "Rack'em Spirits & Times",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "ralph-s-place-1305",
+   "name": "Ralph's Place",
+   "address": "1305 Cape Coral Pkwy, Cape Coral, FL 33904",
+   "phone": "(239) 549-2040",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "listed",
+    "times": "4–6 PM (days vary)",
+    "deals": "Discounted drinks",
+    "source": "thehappyhourfinder.com",
+    "confidence": "low"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "rei-s-bakery-229",
+   "name": "Rei's Bakery",
+   "address": "229 Del Prado Blvd N Ste 1, Cape Coral, FL 33909",
+   "phone": "(239) 242-0216",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "rib-city-80",
+   "name": "Rib City",
+   "address": "80 Hancock Bridge Pkwy, Cape Coral, FL 33991",
+   "phone": "(239) 275-6700",
+   "category": "Steak & BBQ",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "rico-cafe-1404",
+   "name": "Rico Cafe",
+   "address": "1404 Del Prado Blvd S Unit 140, Cape Coral, FL 33990",
+   "phone": "(239) 242-0714",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "rincon-cubano-of-cape-coral-958",
+   "name": "Rincon Cubano of Cape Coral",
+   "address": "958 Contry Club Blvd #a, Cape Coral, FL 33990",
+   "phone": "(239) 772-7790",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "ros-mediterranean-1507",
+   "name": "Rosè Mediterranean",
+   "address": "1507 SE 47 St, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Mediterranean",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "rumrunners-5848",
+   "name": "Rumrunners",
+   "address": "5848 Cape Harbour Dr, Cape Coral, FL 33914",
+   "phone": "(239) 790-5786",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily 3–6:30 PM",
+    "deals": "$1.50 oysters and shrimp, $6 light bites, drink specials",
+    "source": "discoverhappyhours.com",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "rusty-s-raw-bar-grill-4631",
+   "name": "Rusty's Raw Bar & Grill",
+   "address": "4631 SE 10 Pl, Cape Coral, FL 33904",
+   "phone": "(239) 360-8154",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily 11 AM–7 PM",
+    "deals": "Daily food and drink specials",
+    "source": "rustysraw.com (official)",
+    "confidence": "high"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "sage-on-47th-1015",
+   "name": "Sage on 47th",
+   "address": "1015 SE 47 Ter, Cape Coral, FL 33904",
+   "phone": "(239) 542-0200",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "listed",
+    "times": "Tue–Fri 4–6 PM",
+    "deals": "Bar happy hour; specials vary",
+    "source": "swflhappyhour.com (checked Nov 2026)",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "sakura-japanese-steak-house-3034",
+   "name": "Sakura Japanese Steak House",
+   "address": "3034 Del Prado Blvd, Cape Coral, FL 33904",
+   "phone": "(239) 945-2999",
+   "category": "Japanese",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "salad-king-1622",
+   "name": "Salad King",
+   "address": "1622 Del Prado Blvd S Unit #2, Cape Coral, FL 33990",
+   "phone": "(239) 955-6544",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "sazon-to-go-290",
+   "name": "Sazon To Go",
+   "address": "290 Nicholas Pkwy NW Unit 5, Cape Coral, FL 33991",
+   "phone": "(239) 457-7334",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "scoops-and-treats-229",
+   "name": "Scoops and Treats",
+   "address": "229 Del Prado Blvd N -ste 6, Cape Coral, FL 33909",
+   "phone": "(239) 470-2670",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "scotty-s-bierwerks-901",
+   "name": "Scotty's Bierwerks",
+   "address": "901 E Industrial Cir, Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "seed-bean-market-4720",
+   "name": "Seed & Bean Market",
+   "address": "4720 SE 9 Pl Ste 300, Cape Coral, FL 33904",
+   "phone": "(239) 471-7339",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "siam-hut-thai-restaurant-4521",
+   "name": "Siam Hut Thai Restaurant",
+   "address": "4521 Del Prado Blvd S, Cape Coral, FL 33904",
+   "phone": "(239) 945-4247",
+   "category": "Asian",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "sicily-trattoria-1209-1211",
+   "name": "Sicily Trattoria",
+   "address": "1209-1211 Cape Coral Pkwy E., Cape Coral, FL 33904",
+   "phone": "(239) 945-7285",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "sidecar-treats-434",
+   "name": "Sidecar Treats",
+   "address": "434 SE 47 Ter, Cape Coral, FL 33904",
+   "phone": "(239) 999-8130",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "south-cape-diner-1215",
+   "name": "South Cape Diner",
+   "address": "1215 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Fri 1–3 PM",
+    "deals": "",
+    "source": "discoverhappyhours.com",
+    "confidence": "low"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "southern-billiards-and-sports-bar-2138",
+   "name": "Southern Billiards and Sports Bar",
+   "address": "2138 Santa Barbara Blvd, Cape Coral, FL 33991",
+   "phone": "(239) 574-6000",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "spaghy-3512",
+   "name": "Spaghy",
+   "address": "3512 Del Prado Blvd S Unit 111, Cape Coral, FL 33904",
+   "phone": "(239) 471-7613",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "steaknshake-1721",
+   "name": "Steaknshake",
+   "address": "1721 NE Pine Island Rd, Cape Coral, FL 33909",
+   "phone": "(239) 772-2357",
+   "category": "Steak & BBQ",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "stevie-tomato-s-sports-page-814",
+   "name": "Stevie Tomato's Sports Page",
+   "address": "814 Pine Island Rd SW, Cape Coral, FL 33991",
+   "phone": "(239) 573-7877",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "stones-throw-1339",
+   "name": "Stones Throw",
+   "address": "1339 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "(239) 291-3900",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily 4–6 PM",
+    "deals": "Happy hour menu",
+    "source": "stonesthrowcc.com (official)",
+    "confidence": "high"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "subway-1616",
+   "name": "Subway",
+   "address": "1616 W Cape Coral Pkwy, Cape Coral, FL 33914",
+   "phone": "(239) 540-0444",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "subway-428",
+   "name": "Subway",
+   "address": "428 Del Prado Blvd #101, Cape Coral, FL 33909",
+   "phone": "(239) 573-5101",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "subway-636",
+   "name": "Subway",
+   "address": "636 Del Prado Blvd S, Cape Coral, FL 33990",
+   "phone": "(239) 772-2038",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "subway-3038",
+   "name": "Subway",
+   "address": "3038 Delprado Blvd S, Cape Coral, FL 33904",
+   "phone": "(239) 549-4500",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "subway-2522",
+   "name": "Subway",
+   "address": "2522 Santa Barbara Blvd, Cape Coral, FL 33914",
+   "phone": "(239) 573-1210",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "subway-3015",
+   "name": "Subway",
+   "address": "3015 Pine Island Rd SW, Cape Coral, FL 33991",
+   "phone": "(239) 443-8252",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "subway-2481",
+   "name": "Subway",
+   "address": "2481 Del Prado Blvd N, Cape Coral, FL 33909",
+   "phone": "(239) 458-7841",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "subway-106",
+   "name": "Subway",
+   "address": "106 Hancock Bridge Pkwy Unit D17, Cape Coral, FL 33991",
+   "phone": "(239) 471-7498",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "sunset-chicken-339",
+   "name": "Sunset Chicken",
+   "address": "339 SW 10 Pl Bldg 1 Unit 102, Cape Coral, FL 33991",
+   "phone": "(239) 402-3633",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "sweet-spot-1301",
+   "name": "Sweet Spot",
+   "address": "1301 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "taco-bell-1616",
+   "name": "Taco Bell",
+   "address": "1616 Del Prado Blvd, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "taco-bell-11",
+   "name": "Taco Bell",
+   "address": "11 Hancock Bridge Pkwy, Cape Coral, FL 33991",
+   "phone": "",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "taco-works-cape-coral-1017b",
+   "name": "Taco Works Cape Coral",
+   "address": "1017B Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "(239) 246-1246",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "tacos-tequila-cantina-903",
+   "name": "Tacos & Tequila Cantina",
+   "address": "903 NE 15th Pl Ste 103, Cape Coral, FL 33909",
+   "phone": "(239) 302-5216",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "tacos-mexican-restaurant-2311",
+   "name": "Tacos Mexican Restaurant",
+   "address": "2311 Santa Barbara Blvd # 115, Cape Coral, FL 33991",
+   "phone": "(239) 242-4301",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "tacos-mexican-restaurant-140",
+   "name": "Tacos Mexican Restaurant",
+   "address": "140 Santa Barbara Blvd, Cape Coral, FL 33991",
+   "phone": "(239) 257-3112",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "tacos-san-miguel-1404",
+   "name": "Tacos San Miguel",
+   "address": "1404 Del Prado Blvd S Unit 185, Cape Coral, FL 33990",
+   "phone": "(239) 645-1993",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "takumi-sushi-hibachi-1402",
+   "name": "Takumi Sushi & Hibachi",
+   "address": "1402 Del Prado Blvd S, Cape Coral, FL 33990",
+   "phone": "(239) 360-8082",
+   "category": "Japanese",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "taqueria-casamigos-1830",
+   "name": "Taqueria Casamigos",
+   "address": "1830 NE Pine Island Rd Unit 150, Cape Coral, FL 33909",
+   "phone": "(239) 471-7245",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "thai-cafe-99-814",
+   "name": "Thai Cafe 99",
+   "address": "814 SW Pine Island Rd Ste 312, Cape Coral, FL 33991",
+   "phone": "(239) 574-2610",
+   "category": "Asian",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "thai-loving-1325",
+   "name": "Thai Loving",
+   "address": "1325 Del Prado Blvd S Ste A, Cape Coral, FL 33990",
+   "phone": "(239) 471-0018",
+   "category": "Asian",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "the-cafe-2301",
+   "name": "The Cafe",
+   "address": "2301 Del Prado Blvd, Cape Coral, FL 33990",
+   "phone": "(941) 574-7554",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "the-dek-bar-4704",
+   "name": "The Dek Bar",
+   "address": "4704 SE 15 Ave, Cape Coral, FL 33904",
+   "phone": "(239) 542-3745",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "listed",
+    "times": "Mon–Fri 1–3 PM; Mon all day; late-night windows Tue–Sat",
+    "deals": "Half-price drink windows, themed nights",
+    "source": "swflhappyhour.com (checked Nov 2026)",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "the-dive-4810",
+   "name": "The Dive",
+   "address": "4810 Vinecennes St, Cape Coral, FL 33904",
+   "phone": "(239) 980-7630",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "the-dugout-sports-bar-grill",
+   "name": "The Dugout Sports Bar & Grill",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "the-lion-s-den-bar-and-grill",
+   "name": "The Lion's Den Bar and Grill",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "the-nauti-mermaid-dockside-bar-grill-5951",
+   "name": "The Nauti Mermaid Dockside Bar & Grill",
+   "address": "5951 Silver King Blvd, Cape Coral, FL 33914",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily 3–6 PM",
+    "deals": "Drink and food specials",
+    "source": "marriott.com (Westin, official)",
+    "confidence": "high"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "the-o-bar",
+   "name": "The O Bar",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "the-world-famous-cigar-bar",
+   "name": "The World Famous Cigar Bar",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "tiki-hut-bar-grill-dolphin-key-resort-1502",
+   "name": "Tiki Hut Bar & Grill (Dolphin Key Resort)",
+   "address": "1502 Miramar Street, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "tito-s-cantina-tequila-bar-and-grille-1334",
+   "name": "Tito's Cantina Tequila Bar and Grille",
+   "address": "1334 Cape Coral Pkwy E, Cape Coral, FL",
+   "phone": "",
+   "category": "Mexican",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "torched-bar-and-grill-2408",
+   "name": "Torched Bar and Grill",
+   "address": "2408 Surfside Blvd., Cape Coral, FL 33991",
+   "phone": "(239) 257-2870",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "trattoria-ciao-823",
+   "name": "Trattoria Ciao",
+   "address": "823 SE 47 Ter, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "tropical-smoothie-caf-1751",
+   "name": "Tropical Smoothie Café",
+   "address": "1751 NE Pine Island Rd #l3, Cape Coral, FL 33909",
+   "phone": "(239) 573-0035",
+   "category": "Latin",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "tropical-smoothie-caf-2139",
+   "name": "Tropical Smoothie Café",
+   "address": "2139 Santa Barbara Blvd So, Cape Coral, FL 33991",
+   "phone": "(239) 800-5362",
+   "category": "Latin",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "truly-tropical-821",
+   "name": "Truly Tropical",
+   "address": "821 Cape Coral Pkwy W #9, Cape Coral, FL 33914",
+   "phone": "(239) 471-7522",
+   "category": "Latin",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "twisted-lobster-1341",
+   "name": "Twisted Lobster",
+   "address": "1341 Del Prado Blvd S #1, Cape Coral, FL 33990",
+   "phone": "(239) 800-2879",
+   "category": "Seafood",
+   "happyHour": {
+    "status": "listed",
+    "times": "Tue–Fri from 4 PM",
+    "deals": "",
+    "source": "whereat.io listing",
+    "confidence": "low"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "two-meatballs-in-the-kitchen-1403",
+   "name": "Two Meatballs in the Kitchen",
+   "address": "1403 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "(239) 347-3013",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "listed",
+    "times": "Daily 12–6 PM",
+    "deals": "",
+    "source": "discoverhappyhours.com",
+    "confidence": "medium"
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "unabella-pizzeria-subs-wings-1232",
+   "name": "Unabella Pizzeria Subs & Wings",
+   "address": "1232 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Italian & pizza",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "urban-buzz-coffee-4413",
+   "name": "Urban Buzz Coffee",
+   "address": "4413 Del Prado Blvd S, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "vlady-cuban-food-532",
+   "name": "Vlady Cuban Food",
+   "address": "532 SE 47 Ter Ste 4, Cape Coral, FL 33904",
+   "phone": "(239) 541-4328",
+   "category": "Latin",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "waffle-house-2121",
+   "name": "Waffle House",
+   "address": "2121 Del Prado Blvd, Cape Coral, FL 33990",
+   "phone": "(239) 233-4996",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "waffle-house-4642",
+   "name": "Waffle House",
+   "address": "4642 Del Prado Blvd S, Cape Coral, FL 33904",
+   "phone": "(239) 541-9050",
+   "category": "Breakfast & cafe",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "walk-on-s-sports-bistreaux-1127",
+   "name": "Walk On's Sports Bistreaux",
+   "address": "1127 SW Pine Island Rd, Cape Coral, FL 33991",
+   "phone": "(239) 401-7713",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "wendy-s-1427",
+   "name": "Wendy's",
+   "address": "1427 Cape Coral Pkwy, Cape Coral, FL 33904",
+   "phone": "(239) 549-3600",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "wendy-s-41",
+   "name": "Wendy's",
+   "address": "41 Hancock Bridge Pkwy W, Cape Coral, FL 33991",
+   "phone": "(941) 388-8837",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "wendy-s-2517",
+   "name": "Wendy's",
+   "address": "2517 Skyline Blvd, Cape Coral, FL 33914",
+   "phone": "(239) 402-1001",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "wendy-s-1601",
+   "name": "Wendy's",
+   "address": "1601 Del Prado Blvd S, Cape Coral, FL",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "wicked-dolphin-rum-distillery",
+   "name": "Wicked Dolphin Rum Distillery",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "wicked-tiki-bar",
+   "name": "Wicked! Tiki Bar",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "windows-on-the-green",
+   "name": "Windows on the Green",
+   "address": "Cape Coral, FL",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "wing-stop-1480",
+   "name": "Wing Stop",
+   "address": "1480 NE Pine Island Rd Unit 2E, Cape Coral, FL 33909",
+   "phone": "(239) 758-9464",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "wingnuts-231",
+   "name": "Wingnuts",
+   "address": "231 Del Prado Blvd S Ste 8, Cape Coral, FL",
+   "phone": "",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "wingstop-2505",
+   "name": "Wingstop",
+   "address": "2505 Santa Barbara Blvd, Cape Coral, FL 33914",
+   "phone": "(239) 977-9464",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "wow-wing-house-1227",
+   "name": "Wow Wing House",
+   "address": "1227 Miramar St, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Bar & grill",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "yellowfin-sushi-and-sake-bar-1306",
+   "name": "Yellowfin Sushi and Sake Bar",
+   "address": "1306 Cape Coral Pkwy E, Cape Coral, FL 33904",
+   "phone": "",
+   "category": "Japanese",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "yonutz-106",
+   "name": "Yonutz",
+   "address": "106 Hancock Bridge Pkwy W Ste C11, Cape Coral, FL 33991",
+   "phone": "(239) 471-7994",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "yummy-yummy-3015",
+   "name": "Yummy Yummy",
+   "address": "3015 SW Pine Island Rd Ste 108, Cape Coral, FL 33991",
+   "phone": "(239) 558-4380",
+   "category": "Asian",
+   "happyHour": {
+    "status": "unconfirmed",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  },
+  {
+   "id": "zirilli-s-chilly-treats-814",
+   "name": "Zirilli's Chilly Treats",
+   "address": "814 SW Pine Island Rd Unit 308, Cape Coral, FL 33991",
+   "phone": "(239) 573-1590",
+   "category": "Restaurant",
+   "happyHour": {
+    "status": "none_expected",
+    "times": "",
+    "deals": "",
+    "source": "",
+    "confidence": ""
+   },
+   "lastChecked": "2026-11-11"
+  }
+ ]
+}

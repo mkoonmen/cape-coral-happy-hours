@@ -9,6 +9,9 @@ Every licensed restaurant and bar in Cape Coral, FL, with its happy hour where o
 | `data/restaurants.json` | The list. Both the web version and the apps download this file on launch, so editing it updates every phone with no app update. |
 | `scripts/build_data.py` | Rebuilds `data/restaurants.json`. The researched happy hours live in the `HH` table inside it. Run: `python3 scripts/build_data.py` then copy the result to `app/restaurants.json`. |
 | `scripts/state_license_extract.json` | Cape Coral rows from Florida DBPR food-service license/inspection records (public record). |
+| `privacy.html` | Privacy policy page required by both app stores. |
+| `store/` | Store listing text and the Play Store icon. |
+| `FINAL-STEPS.md` | The remaining sign-in steps. |
 | `.github/workflows/build.yml` | Cloud build of the store apps on Expo's servers. Needs an `EXPO_TOKEN` repo secret. |
 
 ## Data format
@@ -19,7 +22,7 @@ Every licensed restaurant and bar in Cape Coral, FL, with its happy hour where o
 
 ## Where the list came from
 - Restaurants: Florida DBPR license records (seating and non-seating food service; food trucks, caterers and hotel banquet rooms left out), plus bars named on happy-hour sites that hold no food license.
-- Happy hours: restaurant websites, swflhappyhour.com, discoverhappyhours.com, whereat.io, local press. Each entry names its source.
+- Happy hours: restaurant websites, swflhappyhour.com, daddyshappyhour.com, discoverhappyhours.com, whereat.io, the restaurants' social pages, local press. Each entry names its source.
 
 ## Keeping it fresh
 1. Weekly scheduled Claude task: researches `unconfirmed` places, re-checks `listed` ones, applies open GitHub issues labelled as updates, edits the `HH` table, rebuilds, commits.

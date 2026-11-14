@@ -1,4 +1,7 @@
 { "expo": { "name": "Cape Coral Happy Hours", "slug": "cape-coral-happy-hours", "version": "1.0.0",
-  "orientation": "portrait", "userInterfaceStyle": "dark",
-  "ios": { "bundleIdentifier": "com.koonmen.capecoralhappyhours", "supportsTablet": false },
-  "android": { "package": "com.koonmen.capecoralhappyhours" } } }
+  "orientation": "portrait", "userInterfaceStyle": "dark", "icon": "./assets/icon.png",
+  "splash": { "image": "./assets/splash.png", "resizeMode": "cover", "backgroundColor": "#0b1f2e" },
+  "ios": { "bundleIdentifier": "com.koonmen.capecoralhappyhours", "supportsTablet": false,
+           "infoPlist": { "ITSAppUsesNonExemptEncryption": false } },
+  "android": { "package": "com.koonmen.capecoralhappyhours",
+               "adaptiveIcon": { "foregroundImage": "./assets/adaptive-icon.png", "backgroundColor": "#0b1f2e" } } } }

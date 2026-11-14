@@ -17,7 +17,7 @@ Every licensed restaurant and bar in Cape Coral, FL, with its happy hour where o
 ## Data format
 `id, name, address, phone, category, happyHour {status, times, deals, source, confidence}, lastChecked`
 
-- `status`: `listed` (happy hour found), `unconfirmed` (serves alcohol or might; nothing found yet), `none_expected` (counter-service, coffee, ice cream, fast food).
+- `status`: `listed` (happy hour found), `unconfirmed` (searched by name on 2026-11-14; no happy hour posted online — shown in the app as "None posted"), `none_expected` (counter-service, coffee, ice cream, fast food).
 - `confidence`: `high` = restaurant's own site, `medium` = recent listing site or press, `low` = older or single weak source.
 
 ## Where the list came from

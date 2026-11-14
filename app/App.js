@@ -9,7 +9,7 @@ import bundled from './restaurants.json';
 const DATA_URL = 'https://raw.githubusercontent.com/mkoonmen/cape-coral-happy-hours/main/data/restaurants.json';
 const REPORT_URL = 'https://github.com/mkoonmen/cape-coral-happy-hours/issues/new';
 
-const FILTERS = ['Happy hours', 'All', 'Not confirmed'];
+const FILTERS = ['Happy hours', 'All', 'None posted'];
 
 export default function App() {
   const [data, setData] = useState(bundled);
@@ -60,7 +60,7 @@ export default function App() {
                 <Text style={s.time}>🍹 {r.happyHour.times}</Text>
                 {!!r.happyHour.deals && <Text style={s.deals}>{r.happyHour.deals}</Text>}
               </>
-            ) : <Text style={s.unk}>{r.happyHour.status === 'none_expected' ? 'Counter-service spot — no happy hour found' : 'Happy hour not confirmed yet — call to ask'}</Text>}
+            ) : <Text style={s.unk}>{r.happyHour.status === 'none_expected' ? 'Counter-service spot — no happy hour found' : 'No happy hour posted online — call to ask'}</Text>}
             {r.happyHour.status === 'listed' && <Text style={s.src}>Source: {r.happyHour.source}{r.happyHour.confidence === 'low' ? ' · older or less certain' : ''} · confirm with the restaurant</Text>}
             <View style={s.row}>
               <Pressable onPress={() => Linking.openURL(`https://maps.google.com/?q=${encodeURIComponent(r.name + ' ' + r.address)}`)}><Text style={s.link}>Directions</Text></Pressable>

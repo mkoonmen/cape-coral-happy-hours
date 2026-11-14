@@ -16,7 +16,7 @@ a{color:#4fc3f7;font-weight:600;text-decoration:none;margin-right:14px}.links{ma
 <div class="chips" id="chips"></div><div id="list"></div>
 </main><script>
 const REPORT='https://github.com/mkoonmen/cape-coral-happy-hours/issues/new';
-const FILTERS=['Happy hours','All','Not confirmed'];let filter=FILTERS[0],data={restaurants:[]};
+const FILTERS=['Happy hours','All','None posted'];let filter=FILTERS[0],data={restaurants:[]};
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 function draw(){
   document.getElementById('chips').innerHTML=FILTERS.map(f=>`<button class="chip ${f===filter?'on':''}" data-f="${f}">${f}</button>`).join('');
@@ -27,7 +27,7 @@ function draw(){
     const t=encodeURIComponent('Happy hour update: '+r.name),b=encodeURIComponent(`Restaurant: ${r.name}\nCurrent listing: ${h.times||'none'}\nCorrect days/times:\nDeals:\nSource (menu link/photo):`);
     return `<div class="card"><div class="name">${esc(r.name)}</div><div class="meta">${esc(r.category)} · ${esc(r.address)}</div>`+
     (h.status==='listed'?`<div class="time">🍹 ${esc(h.times)}</div>${h.deals?`<div>${esc(h.deals)}</div>`:''}<div class="src">Source: ${esc(h.source)}${h.confidence==='low'?' · older or less certain':''} · confirm with the restaurant</div>`
-      :`<div class="unk">${h.status==='none_expected'?'Counter-service spot — no happy hour found':'Happy hour not confirmed yet — call to ask'}</div>`)+
+      :`<div class="unk">${h.status==='none_expected'?'Counter-service spot — no happy hour found':'No happy hour posted online — call to ask'}</div>`)+
     `<div class="links"><a href="https://maps.google.com/?q=${encodeURIComponent(r.name+' '+r.address)}">Directions</a>${r.phone?`<a href="tel:${r.phone.replace(/\D/g,'')}">Call</a>`:''}<a href="${REPORT}?title=${t}&body=${b}">Suggest an update</a></div></div>`}).join('')||'<p class="unk">No matches.</p>';
 }
 document.getElementById('chips').onclick=e=>{if(e.target.dataset.f){filter=e.target.dataset.f;draw()}};

@@ -174,11 +174,11 @@
    "phone": "",
    "category": "Bar & grill",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
-    "deals": "",
-    "source": "",
-    "confidence": ""
+    "status": "listed",
+    "times": "Every day (times not posted)",
+    "deals": "Appetizer and drink deals",
+    "source": "applebees.com (official)",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -819,11 +819,11 @@
    "phone": "(239) 673-8138",
    "category": "Japanese",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
+    "status": "listed",
+    "times": "Daily 4–6 PM",
     "deals": "",
-    "source": "",
-    "confidence": ""
+    "source": "captainhookssushi.com (official)",
+    "confidence": "high"
    },
    "lastChecked": "2026-11-14"
   },
@@ -1119,11 +1119,11 @@
    "phone": "(239) 599-8955",
    "category": "Latin",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
-    "deals": "",
-    "source": "",
-    "confidence": ""
+    "status": "listed",
+    "times": "All day",
+    "deals": "2-for-1 happy hour",
+    "source": "its Facebook",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -1284,11 +1284,11 @@
    "phone": "(239) 673-8002",
    "category": "Bar & grill",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
-    "deals": "",
-    "source": "",
-    "confidence": ""
+    "status": "listed",
+    "times": "Daily (times not posted)",
+    "deals": "Drink specials",
+    "source": "restaurantji.com",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -2379,11 +2379,11 @@
    "phone": "(239) 257-1560",
    "category": "Mexican",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
-    "deals": "",
-    "source": "",
-    "confidence": ""
+    "status": "listed",
+    "times": "Thursdays all day",
+    "deals": "2-for-1 house margaritas",
+    "source": "its social post (Oct 2026)",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -2499,11 +2499,11 @@
    "phone": "(941) 945-4700",
    "category": "Bar & grill",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
+    "status": "listed",
+    "times": "3–6 PM (days not given)",
     "deals": "",
-    "source": "",
-    "confidence": ""
+    "source": "its Instagram (Mar 2026)",
+    "confidence": "medium"
    },
    "lastChecked": "2026-11-14"
   },
@@ -2559,11 +2559,11 @@
    "phone": "(239) 471-7095",
    "category": "Restaurant",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
+    "status": "listed",
+    "times": "2–5 PM (days not given)",
     "deals": "",
-    "source": "",
-    "confidence": ""
+    "source": "its Facebook",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -2589,11 +2589,11 @@
    "phone": "(239) 800-3141",
    "category": "Bar & grill",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
+    "status": "listed",
+    "times": "Mon–Fri 3–6 PM",
     "deals": "",
-    "source": "",
-    "confidence": ""
+    "source": "its Facebook (2014 post)",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -3594,11 +3594,11 @@
    "phone": "(239) 539-2099",
    "category": "Italian & pizza",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
+    "status": "listed",
+    "times": "Mon–Fri 3–6 PM",
     "deals": "",
-    "source": "",
-    "confidence": ""
+    "source": "dinedecoded.com",
+    "confidence": "medium"
    },
    "lastChecked": "2026-11-14"
   },
@@ -3699,11 +3699,11 @@
    "phone": "",
    "category": "Bar & grill",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
+    "status": "listed",
+    "times": "Daily 4:30–6 PM (another listing says 2:30–5:30 PM)",
     "deals": "",
-    "source": "",
-    "confidence": ""
+    "source": "TripAdvisor / checkle.com",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -3789,11 +3789,11 @@
    "phone": "(239) 246-3118",
    "category": "Bar & grill",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
+    "status": "listed",
+    "times": "Mon–Fri 11:30 AM–6 PM",
     "deals": "",
-    "source": "",
-    "confidence": ""
+    "source": "nevermindawesomebar.com (official)",
+    "confidence": "high"
    },
    "lastChecked": "2026-11-14"
   },
@@ -3804,11 +3804,11 @@
    "phone": "",
    "category": "Seafood",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
-    "deals": "",
-    "source": "",
-    "confidence": ""
+    "status": "listed",
+    "times": "4–6 PM (days not given)",
+    "deals": "Early bird 4:30–6 PM: 10% off the bill",
+    "source": "its Facebook",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -4479,11 +4479,11 @@
    "phone": "(239) 673-8816",
    "category": "Steak & BBQ",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
-    "deals": "",
-    "source": "",
-    "confidence": ""
+    "status": "listed",
+    "times": "Mon–Sat 4–6 PM (bar and lounge)",
+    "deals": "Mondays: half-price bottles of wine",
+    "source": "its Instagram (May 2026)",
+    "confidence": "medium"
    },
    "lastChecked": "2026-11-14"
   },
@@ -4539,11 +4539,11 @@
    "phone": "",
    "category": "Bar & grill",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
-    "deals": "",
-    "source": "",
-    "confidence": ""
+    "status": "listed",
+    "times": "Daily 3–7 PM",
+    "deals": "2-for-1 shots and mixed drinks",
+    "source": "its Facebook",
+    "confidence": "medium"
    },
    "lastChecked": "2026-11-14"
   },
@@ -4584,11 +4584,11 @@
    "phone": "(239) 275-6700",
    "category": "Steak & BBQ",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
+    "status": "listed",
+    "times": "Daily 11 AM–5 PM",
     "deals": "",
-    "source": "",
-    "confidence": ""
+    "source": "happy-hour.divinenaples.com",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -4749,11 +4749,11 @@
    "phone": "",
    "category": "Bar & grill",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
+    "status": "listed",
+    "times": "Tuesdays 4–7 PM",
     "deals": "",
-    "source": "",
-    "confidence": ""
+    "source": "its Facebook",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -4839,11 +4839,11 @@
    "phone": "(239) 574-6000",
    "category": "Bar & grill",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
+    "status": "listed",
+    "times": "Daily; 3–6 PM at the bar",
     "deals": "",
-    "source": "",
-    "confidence": ""
+    "source": "Yelp review / its social page",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -4884,11 +4884,11 @@
    "phone": "(239) 573-7877",
    "category": "Bar & grill",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
+    "status": "listed",
+    "times": "3–6 PM (days not given)",
     "deals": "",
-    "source": "",
-    "confidence": ""
+    "source": "its Instagram",
+    "confidence": "medium"
    },
    "lastChecked": "2026-11-14"
   },
@@ -5109,11 +5109,11 @@
    "phone": "(239) 302-5216",
    "category": "Mexican",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
-    "deals": "",
-    "source": "",
-    "confidence": ""
+    "status": "listed",
+    "times": "11 AM–6 PM (days not given)",
+    "deals": "Food and drink deals",
+    "source": "its Facebook",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -5259,11 +5259,11 @@
    "phone": "(239) 980-7630",
    "category": "Bar & grill",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
-    "deals": "",
-    "source": "",
-    "confidence": ""
+    "status": "listed",
+    "times": "2–6 PM (days not given)",
+    "deals": "Happy hour baskets at the bar",
+    "source": "TripAdvisor review (2019)",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -5334,11 +5334,11 @@
    "phone": "",
    "category": "Bar & grill",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
+    "status": "listed",
+    "times": "Daily 11 AM–7 PM",
     "deals": "",
-    "source": "",
-    "confidence": ""
+    "source": "happy-hour.divinenaples.com",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -5364,11 +5364,11 @@
    "phone": "",
    "category": "Mexican",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
+    "status": "listed",
+    "times": "Every day (times not posted)",
     "deals": "",
-    "source": "",
-    "confidence": ""
+    "source": "its Facebook (2024)",
+    "confidence": "low"
    },
    "lastChecked": "2026-11-14"
   },
@@ -5379,11 +5379,11 @@
    "phone": "(239) 257-2870",
    "category": "Bar & grill",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
+    "status": "listed",
+    "times": "Mon–Fri 11 AM–5 PM (its ordering menu says 2–6 PM)",
     "deals": "",
-    "source": "",
-    "confidence": ""
+    "source": "its Facebook (Mar 2025)",
+    "confidence": "medium"
    },
    "lastChecked": "2026-11-14"
   },
@@ -5724,11 +5724,11 @@
    "phone": "",
    "category": "Bar & grill",
    "happyHour": {
-    "status": "unconfirmed",
-    "times": "",
-    "deals": "",
-    "source": "",
-    "confidence": ""
+    "status": "listed",
+    "times": "All day, every day",
+    "deals": "$3 Yuengling drafts, $4 wells",
+    "source": "its Instagram",
+    "confidence": "medium"
    },
    "lastChecked": "2026-11-14"
   },
